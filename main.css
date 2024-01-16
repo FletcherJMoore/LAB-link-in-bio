@@ -1,0 +1,57 @@
+body{
+  background-image: url('https://files.123freevectors.com/wp-content/original/110703-dark-blue-blurred-background-vector.jpg');
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+   padding-top: 200px;
+} 
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+.self_img{
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.picture{
+  background-color: transparent;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.text{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+
+.btn{
+  text-align: center;
+  background-color: transparent;
+  font-family: sans-serif;
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+  width: 700px;
+  height: 50px;
+  border-color: white;
+  font-weight: 100;
+ 
+}
+
+.btn-primary{
+  text-align: center;
+}
+
+.btn:hover{
+  background-color:grey;
+}
+
+.btn:active{
+  background-color: white;
+}
